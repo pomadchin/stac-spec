@@ -64,3 +64,6 @@ typings/
 # IntelliJ IDEA files
 .idea/
 *.iml
+
+# VSCode files
+.history

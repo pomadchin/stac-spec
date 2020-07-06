@@ -74,6 +74,21 @@
     }
   ],
   "definitions": {
+    "datetime_string": {
+      "title": "The searchable date and time",
+      "type": "string",
+      "format": "date-time"
+    },
+    "start_datetime": {
+      "title": "The searchable date and time (start)",
+      "type": "string",
+      "format": "date-time"
+    },
+    "end_datetime": {
+      "title": "The searchable date and time (end)",
+      "type": "string",
+      "format": "date-time"
+    },
     "created": {
       "title": "Creation Time",
       "type": "string",
